@@ -9,6 +9,7 @@
     "react-scripts": "1.0.17",
     "react-tilt": "^0.1.4",
     "tachyons": "^4.9.0"
+    "node": "13.10.1"
   },
   "scripts": {
     "start": "react-scripts start",
